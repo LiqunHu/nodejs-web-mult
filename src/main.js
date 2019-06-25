@@ -31,7 +31,7 @@ import './assets/css/default/theme/default.css'
 import './assets/css/style.css'
 import './assets/css/ui.css'
 
-import App from './app'
+import App from './App'
 // use mavon-editor
 Vue.use(VueX)
 Vue.use(VueRouter)
